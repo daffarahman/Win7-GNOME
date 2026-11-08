@@ -1,0 +1,14 @@
+# Generated themes, release archives, and Python caches
+/build/
+/dist/
+__pycache__/
+*.py[cod]
+.venv/
+
+# Settings, launcher backups, and reports from the local desktop
+/previous-settings.json
+/previous-settings.json.tmp
+/launcher-backups.json
+/coverage.json
+/app-source-coverage.json
+/verification*.json

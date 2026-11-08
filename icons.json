@@ -1,0 +1,546 @@
+{
+  "places": {
+    "folder": {
+      "source": "Standard Folders/imageres_3.ico",
+      "label": "Folder",
+      "aliases": [
+        "folder_open",
+        "inode-directory",
+        "folder-yellow",
+        "folder-default",
+        "folder-root",
+        "folder-system"
+      ]
+    },
+    "user-home": {
+      "source": "Important Icons/Special Folders/imageres_123.ico",
+      "label": "Home",
+      "aliases": [
+        "folder-home",
+        "gnome-fs-home"
+      ]
+    },
+    "user-desktop": {
+      "source": "Standard Folders/imageres_183.ico",
+      "label": "Desktop",
+      "aliases": [
+        "folder-desktop",
+        "desktop",
+        "gnome-fs-desktop"
+      ]
+    },
+    "folder-documents": {
+      "source": "Important Icons/Special Folders/imageres_112.ico",
+      "label": "Documents",
+      "aliases": [
+        "folder-documents-open"
+      ]
+    },
+    "folder-download": {
+      "source": "Important Icons/Special Folders/imageres_184.ico",
+      "label": "Downloads",
+      "aliases": [
+        "folder-downloads",
+        "folder-download-open",
+        "folder-downloads-open"
+      ]
+    },
+    "folder-music": {
+      "source": "Important Icons/Special Folders/imageres_108.ico",
+      "label": "Music",
+      "aliases": [
+        "folder-music-open"
+      ]
+    },
+    "folder-pictures": {
+      "source": "Important Icons/Special Folders/imageres_113.ico",
+      "label": "Pictures",
+      "aliases": [
+        "folder-images",
+        "folder-pictures-open"
+      ]
+    },
+    "folder-videos": {
+      "source": "Important Icons/Special Folders/imageres_189.ico",
+      "label": "Videos",
+      "aliases": [
+        "folder-video",
+        "folder-videos-open"
+      ]
+    },
+    "folder-templates": {
+      "source": "Standard Folders/imageres_166.ico",
+      "label": "Templates",
+      "aliases": [
+        "folder-templates-open"
+      ]
+    },
+    "folder-publicshare": {
+      "source": "Standard Folders/imageres_178.ico",
+      "label": "Public",
+      "aliases": [
+        "folder-public",
+        "folder-publicshare-open"
+      ]
+    },
+    "folder-favorites": {
+      "source": "Standard Folders/imageres_1020.ico",
+      "label": "Favorites",
+      "aliases": [
+        "folder-bookmark",
+        "folder-favorites-open"
+      ]
+    },
+    "folder-games": {
+      "source": "Important Icons/Special Folders/imageres_186.ico",
+      "label": "Games",
+      "aliases": []
+    },
+    "folder-fonts": {
+      "source": "Important Icons/Special Folders/imageres_129.ico",
+      "label": "Fonts",
+      "aliases": [
+        "folder-font"
+      ]
+    },
+    "folder-saved-search": {
+      "source": "Standard Folders/imageres_1025.ico",
+      "label": "Saved search",
+      "aliases": [
+        "folder-search"
+      ]
+    },
+    "folder-remote": {
+      "source": "Filetypes, Devices, Miscellaneous/imageres_73.ico",
+      "label": "Network folder",
+      "aliases": [
+        "folder-network",
+        "folder-remote-ftp",
+        "folder-remote-smb",
+        "folder-remote-ssh"
+      ]
+    },
+    "folder-archive": {
+      "source": "Standard Folders/imageres_174.ico",
+      "label": "Compressed folder",
+      "aliases": [
+        "folder-tar",
+        "folder-zip",
+        "folder-compressed"
+      ]
+    },
+    "folder-library": {
+      "source": "Important Icons/Libraries/imageres_148.ico",
+      "label": "Libraries",
+      "aliases": [
+        "folder-libraries"
+      ]
+    },
+    "folder-blue": {
+      "source": "Standard Folders/imageres_9.ico",
+      "label": "Blue folder",
+      "aliases": []
+    },
+    "user-trash": {
+      "source": "Important Icons/imageres_55.ico",
+      "label": "Recycle Bin (empty)",
+      "aliases": [
+        "user-trash-empty",
+        "trash-empty",
+        "gnome-fs-trash-empty",
+        "gnome-dev-trash-empty"
+      ]
+    },
+    "user-trash-full": {
+      "source": "Important Icons/imageres_54.ico",
+      "label": "Recycle Bin (full)",
+      "aliases": [
+        "trash-full",
+        "gnome-fs-trash-full",
+        "gnome-dev-trash-full"
+      ]
+    }
+  },
+  "apps": {
+    "system-file-manager": {
+      "source": "Important Icons/explorer_ICO_MYCOMPUTER.ico",
+      "label": "Files",
+      "aliases": [
+        "org.gnome.Nautilus",
+        "nautilus",
+        "file-manager",
+        "Thunar",
+        "thunar",
+        "org.xfce.thunar",
+        "nemo",
+        "caja"
+      ]
+    },
+    "org.gnome.TextEditor": {
+      "source": "Important Icons/Default Programs/notepad_2.ico",
+      "label": "Text Editor",
+      "aliases": [
+        "org.gnome.gedit",
+        "gedit",
+        "text-editor",
+        "accessories-text-editor"
+      ]
+    },
+    "org.gnome.Settings": {
+      "source": "Important Icons/Control Panel/imageres_27.ico",
+      "label": "Settings",
+      "aliases": [
+        "gnome-control-center",
+        "preferences-system"
+      ]
+    },
+    "org.gnome.Terminal": {
+      "source": "Important Icons/Windows PowerShell/powershell_MSH_MAIN.ico",
+      "label": "Terminal",
+      "aliases": [
+        "Alacritty",
+        "alacritty",
+        "org.gnome.Console",
+        "org.gnome.Terminal.Preferences",
+        "gnome-terminal",
+        "org.gnome.Ptyxis",
+        "org.gnome.Ptyxis.Devel",
+        "com.raggesilver.BlackBox",
+        "kgx",
+        "ptyxis",
+        "utilities-terminal"
+      ]
+    },
+    "org.gnome.Loupe": {
+      "source": "Filetypes, Devices, Miscellaneous/imageres_72.ico",
+      "label": "Image Viewer",
+      "aliases": [
+        "org.gnome.eog",
+        "eog",
+        "loupe",
+        "gthumb",
+        "org.gnome.gThumb",
+        "gwenview"
+      ]
+    },
+    "org.gnome.Showtime": {
+      "source": "Important Icons/Windows Media Player/wmplayer_IDR_MAINFRAME.ico",
+      "label": "Video Player",
+      "aliases": [
+        "org.gnome.Totem",
+        "totem",
+        "showtime",
+        "io.github.celluloid_player.Celluloid",
+        "celluloid"
+      ]
+    },
+    "org.gnome.Decibels": {
+      "source": "Important Icons/Windows Media Player/DXPTaskRingtone_50.ico",
+      "label": "Audio Player",
+      "aliases": [
+        "org.gnome.Music",
+        "org.gnome.Rhythmbox3",
+        "rhythmbox",
+        "decibels"
+      ]
+    },
+    "org.gnome.Papers": {
+      "source": "Important Icons/Wordpad/wordpad_128.ico",
+      "label": "Document Viewer",
+      "aliases": [
+        "org.gnome.Evince",
+        "evince",
+        "papers",
+        "atril",
+        "xreader"
+      ]
+    },
+    "org.gnome.FileRoller": {
+      "source": "Standard Folders/imageres_174.ico",
+      "label": "Archive Manager",
+      "aliases": [
+        "file-roller",
+        "engrampa",
+        "org.mate.Engrampa",
+        "ark",
+        "org.kde.ark"
+      ]
+    },
+    "org.gnome.Snapshot": {
+      "source": "Imaging Devices/WLXPhotoAcq_1075.ico",
+      "label": "Camera",
+      "aliases": [
+        "org.gnome.Cheese",
+        "cheese",
+        "snapshot"
+      ]
+    },
+    "org.gnome.SimpleScan": {
+      "source": "Imaging Devices/WLXPhotoAcq_1077.ico",
+      "label": "Document Scanner",
+      "aliases": [
+        "simple-scan"
+      ],
+      "desktop_files": [
+        "hp-uiscan.desktop"
+      ]
+    },
+    "org.gnome.Resources": {
+      "source": "Filetypes, Devices, Miscellaneous/imageres_150.ico",
+      "label": "System Monitor",
+      "aliases": [
+        "org.gnome.SystemMonitor",
+        "gnome-system-monitor",
+        "org.gnome.Usage",
+        "net.nokyan.Resources",
+        "resources",
+        "btop",
+        "htop"
+      ]
+    },
+    "org.gnome.DiskUtility": {
+      "source": "Filetypes, Devices, Miscellaneous/imageres_32.ico",
+      "label": "Disks",
+      "aliases": [
+        "gnome-disks",
+        "palimpsest"
+      ]
+    },
+    "org.gnome.baobab": {
+      "source": "Filetypes, Devices, Miscellaneous/imageres_111.ico",
+      "label": "Disk Usage Analyzer",
+      "aliases": [
+        "baobab"
+      ]
+    },
+    "org.gnome.PowerStats": {
+      "source": "Important Icons/Control Panel/powercfg_202.ico",
+      "label": "Power Statistics",
+      "aliases": [
+        "gnome-power-statistics"
+      ]
+    },
+    "org.gnome.tweaks": {
+      "source": "Filetypes, Devices, Miscellaneous/dsuiext_4137.ico",
+      "label": "Tweaks",
+      "aliases": [
+        "gnome-tweaks"
+      ]
+    },
+    "gnome-color-manager": {
+      "source": "Filetypes, Devices, Miscellaneous/imageres_197.ico",
+      "label": "Color Profile Viewer",
+      "aliases": [
+        "org.gnome.ColorProfileViewer"
+      ]
+    },
+    "org.pulseaudio.pavucontrol": {
+      "source": "Filetypes, Devices, Miscellaneous/audiosrv_203.ico",
+      "label": "Volume Control",
+      "aliases": [
+        "pavucontrol",
+        "pavucontrol-qt"
+      ]
+    },
+    "org.gnome.Software": {
+      "source": "Filetypes, Devices, Miscellaneous/appwiz_1507.ico",
+      "label": "Software",
+      "aliases": [
+        "gnome-software",
+        "gpk-application",
+        "org.gnome.PackageKit",
+        "shelly",
+        "com.shellyorg.shelly",
+        "cachyos-pi",
+        "wine",
+        "winetricks"
+      ]
+    },
+    "org.gnome.Epiphany": {
+      "source": "Important Icons/Internet Explorer/iexplore_32528.ico",
+      "label": "Web Browser",
+      "aliases": [
+        "epiphany",
+        "web-browser",
+        "internet-web-browser"
+      ]
+    },
+    "org.gnome.Geary": {
+      "source": "Important Icons/Windows Mail/MSOERES_2.ico",
+      "label": "Mail",
+      "aliases": [
+        "geary",
+        "org.gnome.Evolution",
+        "evolution",
+        "internet-mail"
+      ]
+    },
+    "org.gnome.Calendar": {
+      "source": "Important Icons/Tasks/DxpTaskSync_50.ico",
+      "label": "Calendar",
+      "aliases": [
+        "gnome-calendar",
+        "x-office-calendar"
+      ]
+    },
+    "org.gnome.Contacts": {
+      "source": "Filetypes, Devices, Miscellaneous/imageres_181.ico",
+      "label": "Contacts",
+      "aliases": [
+        "gnome-contacts"
+      ]
+    },
+    "org.gnome.Notes": {
+      "source": "Important Icons/Windows Journal/Journal_104.ico",
+      "label": "Notes",
+      "aliases": [
+        "org.gnome.bijiben",
+        "bijiben"
+      ]
+    },
+    "org.gnome.font-viewer": {
+      "source": "Filetypes, Devices, Miscellaneous/imageres_125.ico",
+      "label": "Font Viewer",
+      "aliases": [
+        "org.gnome.FontViewer",
+        "gnome-font-viewer"
+      ]
+    },
+    "org.gnome.clocks": {
+      "source": "Filetypes, Devices, Miscellaneous/imageres_144.ico",
+      "label": "Clocks",
+      "aliases": [
+        "org.gnome.Clocks",
+        "gnome-clocks"
+      ]
+    },
+    "org.gnome.Connections": {
+      "source": "Filetypes, Devices, Miscellaneous/imageres_152.ico",
+      "label": "Remote Desktop",
+      "aliases": [
+        "org.gnome.Vinagre",
+        "vinagre",
+        "gnome-connections"
+      ]
+    },
+    "org.gnome.DejaDup": {
+      "source": "Filetypes, Devices, Miscellaneous/imageres_86.ico",
+      "label": "Backups",
+      "aliases": [
+        "deja-dup"
+      ]
+    },
+    "org.freedesktop.MalcontentControl": {
+      "source": "Filetypes, Devices, Miscellaneous/imageres_88.ico",
+      "label": "Parental Controls",
+      "aliases": [
+        "malcontent-control"
+      ]
+    },
+    "com.github.maoschanz.drawing": {
+      "source": "Important Icons/Default Programs/mspaint_2.ico",
+      "label": "Drawing",
+      "aliases": [
+        "drawing"
+      ]
+    },
+    "org.gnome.Chess": {
+      "source": "Important Icons/Games/Chess_128.ico",
+      "label": "Chess",
+      "aliases": [
+        "gnome-chess",
+        "glchess"
+      ]
+    },
+    "org.gnome.Mines": {
+      "source": "Important Icons/Games/MineSweeper_110.ico",
+      "label": "Mines",
+      "aliases": [
+        "gnome-mines",
+        "gnomine"
+      ]
+    },
+    "org.gnome.Mahjongg": {
+      "source": "Important Icons/Games/Mahjong_102.ico",
+      "label": "Mahjongg",
+      "aliases": [
+        "gnome-mahjongg",
+        "mahjongg"
+      ]
+    },
+    "org.gnome.Aisleriot": {
+      "source": "Important Icons/Games/Solitaire_108.ico",
+      "label": "Solitaire",
+      "aliases": [
+        "aisleriot",
+        "sol"
+      ]
+    },
+    "win7-print-settings": {
+      "source": "Filetypes, Devices, Miscellaneous/imageres_196.ico",
+      "label": "Print Settings",
+      "aliases": [
+        "cups"
+      ],
+      "desktop_files": [
+        "system-config-printer.desktop"
+      ]
+    },
+    "win7-hardware-topology": {
+      "source": "Filetypes, Devices, Miscellaneous/imageres_34.ico",
+      "label": "Hardware Topology",
+      "aliases": [
+        "hwloc",
+        "lstopo"
+      ]
+    }
+  },
+  "devices": {
+    "drive-harddisk": {
+      "source": "Filetypes, Devices, Miscellaneous/imageres_32.ico",
+      "label": "Hard disk",
+      "aliases": [
+        "drive-harddisk-ata",
+        "drive-harddisk-sata",
+        "drive-harddisk-scsi",
+        "drive-harddisk-ide",
+        "drive-harddisk-system",
+        "drive-harddisk-solidstate",
+        "drive-harddisk-ssd",
+        "gnome-dev-harddisk"
+      ]
+    },
+    "drive-removable-media": {
+      "source": "Filetypes, Devices, Miscellaneous/imageres_35.ico",
+      "label": "External drive",
+      "aliases": [
+        "drive-removable-media-usb",
+        "drive-harddisk-usb",
+        "drive-removable",
+        "drive-removable-usb",
+        "drive-usb",
+        "gnome-dev-removable-usb"
+      ]
+    },
+    "drive-optical": {
+      "source": "Filetypes, Devices, Miscellaneous/imageres_37.ico",
+      "label": "Optical drive",
+      "aliases": [
+        "drive-cdrom",
+        "drive-dvd",
+        "drive-optical-dvd",
+        "gnome-dev-cdrom"
+      ]
+    },
+    "media-optical": {
+      "source": "Filetypes, Devices, Miscellaneous/imageres_61.ico",
+      "label": "Disc",
+      "aliases": [
+        "media-optical-cd",
+        "media-optical-dvd",
+        "media-optical-bd",
+        "media-cdrom"
+      ]
+    }
+  }
+}
